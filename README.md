@@ -1,2 +1,3 @@
 # fygithub0101
-github practical demo
+github practical de
+hello friends
